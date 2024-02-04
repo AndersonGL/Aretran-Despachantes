@@ -31,8 +31,8 @@ export default function Sobre() {
 
         <section className="container-secao-imagens">
           <div>
-            <img src="assets/carro.png" alt="pessoas comendo sorvete" />
-            <img src="assets/cnh.png" alt="loja sorveteria" />
+            <img src="assets/carro.png" alt="foto carro" />
+            <img src="assets/cnh.png" alt="foto cnh" />
           </div>
         </section>
       </main>
