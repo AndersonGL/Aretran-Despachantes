@@ -25,18 +25,18 @@ export default function Home() {
          <img src="assets/cnh.png" alt="foto motorista" />
          <div className="texto-secao-nossos-servicos">
             <h2>NOSSOS SERVIÇOS</h2>
-           <p> Is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+           <p> 
            </p>
-    
+“Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!”    
          </div>
          </section>
 
          <section className="secao-nossos-clientes">
             <div className="texto-secao-nossos-clientes">
                 <h2>CLIENTES SATISFEITOS</h2>
-                <span>Lorem Ipsum</span>
+                <span>Gabriel Gomes</span>
                 <p>
-                Is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                Gostaria de agradecer o Aretran pelo comprometimento e entrega sou motorista de  aplicativo precisava adicionar o EAR e renovar minha CNH estou muito contente.
                 </p>
             </div>
             <img src="assets/motorista.png" alt="foto de uma cnh" />
