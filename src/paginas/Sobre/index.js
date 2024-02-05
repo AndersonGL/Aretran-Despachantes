@@ -21,7 +21,7 @@ export default function Sobre() {
 
         <section className="container-secao-sobre-nos">
           <div className="limitar-secao">
-            <h2>Sobre Nós</h2>
+            <h2>Sobre Nós</h2><br>
             <span>Conquistar um novo cliente é sempre bom. Mas manter os de longa data é melhor ainda.</span>
             <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
