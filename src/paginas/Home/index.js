@@ -25,9 +25,9 @@ export default function Home() {
          <img src="assets/cnh.png" alt="foto motorista" />
          <div className="texto-secao-nossos-servicos">
             <h2>NOSSOS SERVIÇOS</h2>
-           <p> 
-           </p>
-“Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!”    
+           <p>
+“Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!”        </p>
+    
          </div>
          </section>
 
@@ -49,7 +49,7 @@ export default function Home() {
             <h2>SOBRE NÓS</h2>
             <span>Atuando mais de 17 anos no mercado.</span>
             <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+            “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!”
             </p>
            </div>
            
