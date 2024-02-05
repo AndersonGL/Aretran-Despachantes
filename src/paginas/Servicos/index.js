@@ -50,13 +50,20 @@ return(
               <h3>Pontos na CNH</h3>
               <p>Lorem Ipsum.</p>
             </div>
+ <div className="box-servico">
+              <img src="assets/veiculos.png" alt="veiculos no pátio"/>
+              <h3>Veiculos Aprendidos</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/consulta.png" alt="consulta de ponto"/>
+              <h3>Pontos na CNH</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
           </div>
         </section>
 
       </main>
-
-
-
 
 
   <Footer />
