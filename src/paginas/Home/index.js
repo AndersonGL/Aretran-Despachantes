@@ -17,7 +17,7 @@ export default function Home() {
         <main>
         <section className="secao-banner">
             <div className="texto-banner">
-                <h1>  ASSESSORIA DESPACHANTES ASSOCIADOS </h1>
+                <h1>  ASSESSORIA E DESPACHANTES ASSOCIADOS </h1>
             </div>
          </section>
 
