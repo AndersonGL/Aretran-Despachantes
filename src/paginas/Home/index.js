@@ -25,9 +25,8 @@ export default function Home() {
          <img src="assets/cnh.png" alt="foto motorista" />
          <div className="texto-secao-nossos-servicos">
             <h2>NOSSOS SERVIÇOS</h2>
-           <p> Is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-           printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-           </p>
+           <p>
+“Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!”        </p>
     
          </div>
          </section>
@@ -35,9 +34,9 @@ export default function Home() {
          <section className="secao-nossos-clientes">
             <div className="texto-secao-nossos-clientes">
                 <h2>CLIENTES SATISFEITOS</h2>
-                <span>Lorem Ipsum</span>
+                <span>Gabriel Gomes</span>
                 <p>
-                Is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                Gostaria de agradecer o Aretran pelo comprometimento e entrega sou motorista de  aplicativo precisava adicionar o EAR e renovar minha CNH estou muito contente.
                 </p>
             </div>
             <img src="assets/motorista.png" alt="foto de uma cnh" />
@@ -50,7 +49,7 @@ export default function Home() {
             <h2>SOBRE NÓS</h2>
             <span>Atuando mais de 17 anos no mercado.</span>
             <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!”
             </p>
            </div>
            
