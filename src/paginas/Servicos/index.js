@@ -21,32 +21,32 @@ return(
           <h2>CONSULTE-NÓS</h2>
           <div className="container-servicos">
             <div className="box-servico">
-              <img src="assets/cnh.png" alt="sorvete sabor oreo"/>
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
               <h3>Renovação de CNH</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/ipva-2024.png" alt="sorvete sabor pistache"/>
+              <img src="assets/ipva-2024.png" alt="pagamentos de débito"/>
               <h3>Pagamentos de débitos</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/cnh.png" alt="sorvete sabor cookie com avelã"/>
-              <h3>Pontuação</h3>
+              <img src="assets/reciclagem.png" alt="pontuação"/>
+              <h3>Curso de Reciclagem</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/exame-motorista.png" alt="sorbet sabor kiwi"/>
+              <img src="assets/exame-motorista.png" alt="curso de habilitação"/>
               <h3>CFC</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/carro.png" alt="sorbet sabor morango"/>
+              <img src="assets/veiculos.png" alt="veiculos no pátio"/>
               <h3>Veiculos Aprendidos</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/cnh.png" alt="sorbet limão siciliano"/>
+              <img src="assets/consulta.png" alt="consulta de ponto"/>
               <h3>Pontos na CNH</h3>
               <p>Lorem Ipsum.</p>
             </div>
