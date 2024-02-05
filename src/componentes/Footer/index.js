@@ -22,7 +22,7 @@ export default function Footer() {
                 <p>08:00hs ás 18:00hs</p>
             </div>
         </div>
-        <div className='limitar-secao direto-autoral'>
+        <div className='limitar-secao direito-autoral'>
             <p>© 2024 Aretran Despachantes - Todos os direitos reservados.</p>
         </div>
     </footer>
