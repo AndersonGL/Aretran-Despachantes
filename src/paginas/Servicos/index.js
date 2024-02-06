@@ -18,7 +18,7 @@ return(
         </section>
 
         <section className="limitar-secao secao-servicos">
-          <h2>CONSULTE-NÓS</h2>
+          <h2></h2>
           <div className="container-servicos">
             <div className="box-servico">
               <img src="assets/cnh.png" alt="renovação de cnh"/>
