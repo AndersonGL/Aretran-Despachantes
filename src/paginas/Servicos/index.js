@@ -34,13 +34,13 @@ return(
             </div>
 
             <div className="box-servico">
-              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <img src="assets/transferencia.png" alt="renovação de cnh"/>
               <h3>Alteração de endereço de CNH</h3>
               <p>Lorem Ipsum.</p>
             </div>
 
             <div className="box-servico">
-              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <img src="assets/rebaixamento.png" alt="renovação de cnh"/>
               <h3>Rebaixamento de categoria</h3>
               <p>Lorem Ipsum.</p>
             </div>
@@ -65,7 +65,7 @@ return(
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <img src="assets/ear.png" alt="renovação de cnh"/>
               <h3>Inclusão de EAR na CNH</h3>
               <p>Lorem Ipsum.</p>
             </div>
