@@ -106,7 +106,7 @@ return(
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/exame-motorista.png" alt="curso de habilitação"/>
+              <img src="assets/veiculo-obito.png" alt="curso de habilitação"/>
               <h3>Veiculos com óbito</h3>
               <p>Lorem Ipsum.</p>
             </div>
@@ -116,7 +116,7 @@ return(
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/exame-motorista.png" alt="curso de habilitação"/>
+              <img src="assets/crv-verso.png" alt="curso de habilitação"/>
               <h3>Segunda via de transferência de veiculos</h3>
               <p>Lorem Ipsum.</p>
             </div>
