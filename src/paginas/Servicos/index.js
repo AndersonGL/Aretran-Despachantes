@@ -18,16 +18,70 @@ return(
         </section>
 
         <section className="limitar-secao secao-servicos">
-          <h2>teste</h2>
+          <h2></h2>
           <div className="container-servicos">
+
+          <div className="box-servico">
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <h3>Pontos na CNH</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+
+              <div className="box-servico">
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <h3>Renovação da CNH</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+
             <div className="box-servico">
               <img src="assets/cnh.png" alt="renovação de cnh"/>
-              <h3>Renovação de CNH</h3>
+              <h3>Alteração de endereço de CNH</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+
+            <div className="box-servico">
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <h3>Rebaixamento de categoria</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/ipva-2024.png" alt="pagamentos de débito"/>
-              <h3>Pagamentos de débitos</h3>
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <h3>Inicío de cumprimento de suspensão</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <h3>Alteração dos dados da CNH</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <h3>Primeira habilitação</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <h3>CNH definitiva</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <h3>Inclusão de EAR na CNH</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <h3>Segunda via de CNH</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/cnh-suspensa.png" alt="renovação de cnh"/>
+              <h3>CNH suspensa</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/cnh-cassada.png" alt="renovação de cnh"/>
+              <h3>CNH cassada</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
@@ -36,30 +90,48 @@ return(
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
+              <img src="assets/veiculos.png" alt="veiculos no pátio"/>
+              <h3> Liberação de veiculos aprendidos</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/ipva-2024.png" alt="pagamentos de débito"/>
+              <h3>Pagamentos de débitos com crédito</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+
+            <div className="box-servico">
+              <img src="assets/licenciamento.png" alt="pontuação"/>
+              <h3>Licicenciamento</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
               <img src="assets/exame-motorista.png" alt="curso de habilitação"/>
-              <h3>CFC</h3>
+              <h3>Veiculos com óbito</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/documento.png" alt="curso de habilitação"/>
+              <h3>Transferência de propriedade</h3>
+              <p>Lorem Ipsum.</p>
+            </div>
+            <div className="box-servico">
+              <img src="assets/exame-motorista.png" alt="curso de habilitação"/>
+              <h3>Segunda via de transferência de veiculos</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
               <img src="assets/veiculos.png" alt="veiculos no pátio"/>
-              <h3>Veiculos Aprendidos</h3>
+              <h3> Recursos de multas</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
-              <img src="assets/consulta.png" alt="consulta de ponto"/>
-              <h3>Pontos na CNH</h3>
+              <img src="assets/antt.png" alt="veiculos no pátio"/>
+              <h3>ANTT</h3>
               <p>Lorem Ipsum.</p>
             </div>
- <div className="box-servico">
-              <img src="assets/veiculos.png" alt="veiculos no pátio"/>
-              <h3>Veiculos Aprendidos</h3>
-              <p>Lorem Ipsum.</p>
-            </div>
-            <div className="box-servico">
-              <img src="assets/consulta.png" alt="consulta de ponto"/>
-              <h3>Pontos na CNH</h3>
-              <p>Lorem Ipsum.</p>
-            </div>
+           
+     
           </div>
         </section>
 

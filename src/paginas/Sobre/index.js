@@ -23,17 +23,19 @@ export default function Sobre() {
           <div className="limitar-secao">
             <h2>Sobre Nós</h2>
             <span>Conquistar um novo cliente é sempre bom. Mas manter os de longa data é melhor ainda.</span>
-            <p>
-           Desde 2007 atuando e transformando a vida de nossos clientes.
-    </p>
+            <span>
+           Desde 2007 atuando e transformando a vida de nossos clientes.</span>
+           <span>Parcelamos em 12x</span>
+
           </div>
         </section>
 
         <section className="container-secao-imagens">
           <div>
-            <img src="assets/carro.png" alt="foto carro" />
-            <img src="assets/cnh.png" alt="foto cnh" />
+            <img src="assets/dando-as-maos.png" alt="foto carro" />
+            <img src="assets/cartoes.png" alt="foto cnh" />
           </div>
+          
         </section>
       </main>
 
