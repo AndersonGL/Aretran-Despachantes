@@ -18,8 +18,8 @@ return(
         </section>
 
         <section className="limitar-secao secao-servicos">
-          <h2></h2>
-          <h2></h2>
+          <h2>2</h2>
+          
 
           <div className="container-servicos">
 
