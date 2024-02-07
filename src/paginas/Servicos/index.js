@@ -24,7 +24,7 @@ return(
           <div className="container-servicos">
 
           <div className="box-servico">
-              <img src="assets/cnh.png" alt="renovação de cnh"/>
+              <img src="assets/consulta.png" alt="renovação de cnh"/>
               <h3>Pontos na CNH</h3>
               <p>Lorem Ipsum.</p>
             </div>
