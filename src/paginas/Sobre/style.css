@@ -33,7 +33,7 @@ main {
 }
 
 .container-secao-sobre-nos div {
-  padding: 100px 20px;
+  padding: 100px 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -41,7 +41,7 @@ main {
 
 .container-secao-sobre-nos h2{
   font-size: 35px;
-  line-height: 26px;
+  line-height: 36px;
   text-align: center;
 }
 
