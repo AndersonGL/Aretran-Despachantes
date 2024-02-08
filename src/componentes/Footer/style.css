@@ -4,6 +4,12 @@ footer {
     
 }
 
+footer div img {
+
+  border-radius: 50px;
+  
+}
+
 .container-logo-informacoes {
  
   display: flex;
