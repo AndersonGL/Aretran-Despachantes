@@ -68,7 +68,7 @@ return(
             </div>
             <div className="box-servico">
               <img src="assets/ear.png" alt="renovação de cnh"/>
-              <h3></h3>
+              <h3>Inclusão de EAR na habilitação</h3>
               <p>Lorem Ipsum.</p>
             </div>
             <div className="box-servico">
