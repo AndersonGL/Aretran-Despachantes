@@ -67,6 +67,7 @@ main {
 .container-secao-imagens img {
   width: 50%;
   height: auto;
+  margin-top: -70px;
   object-fit: cover;
 }
 
@@ -81,7 +82,8 @@ main {
 
   .container-secao-imagens img {
     width: 100%;
-    margin-top: 20px;
+    margin-bottom: 100px;
+    
   }
 }
 
