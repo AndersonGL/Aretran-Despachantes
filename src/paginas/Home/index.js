@@ -26,7 +26,7 @@ export default function Home() {
                     <div className="texto-secao-nossos-servicos">
                         <h2>NOSSOS SERVIÇOS</h2>
                         <p>
-                            “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!”        </p>
+                            “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiênciaa!”        </p>
 
                     </div>
                 </section>
