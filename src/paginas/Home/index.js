@@ -49,7 +49,7 @@ export default function Home() {
                         <h2>SOBRE NÓS</h2>
                         <span>Atuando mais de 17 anos no mercado.</span>
                         <p>
-                            “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!”
+                            “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!!!”
                         </p>
                     </div>
                 </section>
