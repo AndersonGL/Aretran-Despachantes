@@ -26,7 +26,7 @@ export default function Home() {
                     <div className="texto-secao-nossos-servicos">
                         <h2>NOSSOS SERVIÇOS</h2>
                         <p>
-                            “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiênciaaa!”        </p>
+                            “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!”        </p>
 
                     </div>
                 </section>
@@ -36,7 +36,7 @@ export default function Home() {
                         <h2>CLIENTES SATISFEITOS</h2>
                         <span>Gabriel Gomes</span>
                         <p>
-                            " Gostaria de agradecer o Aretran pelo comprometimento e entrega sou motorista de  aplicativo precisava adicionar o EAR e renovar minha CNH estou muito contente".
+                            " Gostaria de agradecer o Aretran pelo comprometimento e entrega sou motorista de  aplicativo precisava adicionar o EAR e renovar minha CNH estou muito contentee".
                         </p>
                     </div>
                     <img src="assets/motorista.png" alt="foto de uma cnh" />
