@@ -22,7 +22,7 @@ export default function Home() {
                 </section>
 
                 <section className="secao-nossos-servicos">
-                    <img src="assets/cnh.png" alt="foto motorista" />
+                    
                     <div className="texto-secao-nossos-servicos">
                         <h2>NOSSOS SERVIÇOS</h2>
                         <p>
@@ -32,6 +32,7 @@ export default function Home() {
                 </section>
 
                 <section className="secao-nossos-clientes">
+                   <img src="assets/motorista.png" alt="foto motorista" />
                     <div className="texto-secao-nossos-clientes">
                         <h2>CLIENTES SATISFEITOS</h2>
                         <span>Gabriel Gomes</span>
