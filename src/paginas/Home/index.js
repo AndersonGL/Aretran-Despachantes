@@ -39,7 +39,7 @@ export default function Home() {
                             " Gostaria de agradecer o Aretran pelo comprometimento e entrega sou motorista de  aplicativo precisava adicionar o EAR e renovar minha CNH estou muito contente".
                         </p>
                     </div>
-                    <img src="assets/motorista.png" alt="foto de uma cnh" />
+                   
                 </section>
 
 
