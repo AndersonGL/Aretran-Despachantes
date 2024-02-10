@@ -21,8 +21,6 @@ export default function Home() {
                     </div>
                 </section>
 
-                </section>
-
                 <section className="secao-nossos-clientes">
                    <img src="assets/motorista.png" alt="foto motorista" />
                     <div className="texto-secao-nossos-clientes">
