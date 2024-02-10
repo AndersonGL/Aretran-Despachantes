@@ -53,6 +53,7 @@ export default function Home() {
                         </p>
                     </div>
                 </section>
+               
             </main>
 
             < Footer />
