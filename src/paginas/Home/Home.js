@@ -1,7 +1,6 @@
 import Header from "../../componentes/Header";
 import Footer from "../../componentes/Footer";
 
-import './style.css'
 
 
 export default function Home() {
@@ -11,7 +10,7 @@ export default function Home() {
         <div>
 
 
-            < Header />
+            <Header />
 
 
 
@@ -22,10 +21,10 @@ export default function Home() {
                     </div>
                 </section>
 
-            
+
 
                 <section className="secao-nossos-clientes">
-                   <img src="assets/motorista.png" alt="foto motorista" />
+                    <img src="assets/motorista.png" alt="foto motorista" />
                     <div className="texto-secao-nossos-clientes">
                         <h2>CLIENTES SATISFEITOS</h2>
                         <span>Gabriel Gomes</span>
@@ -33,7 +32,7 @@ export default function Home() {
                             " Gostaria de agradecer o Aretran pelo comprometimento e entrega sou motorista de  aplicativo precisava adicionar o EAR e renovar minha CNH estou muito contente".
                         </p>
                     </div>
-                   
+
                 </section>
 
 
@@ -47,10 +46,11 @@ export default function Home() {
                         </p>
                     </div>
                 </section>
-               
+
             </main>
 
-            < Footer />
+
+            <Footer />
 
 
         </div>
@@ -58,6 +58,3 @@ export default function Home() {
     )
 
 }
-
-
-

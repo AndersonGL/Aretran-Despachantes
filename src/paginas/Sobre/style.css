@@ -30,6 +30,7 @@ main {
   color: aliceblue;
   font-size: 60px;
   text-shadow: 3px 5px 2px #474747;
+  
 }
 
 .container-secao-sobre-nos div {
@@ -37,12 +38,14 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  
 }
 
 .container-secao-sobre-nos h2{
   font-size: 35px;
   line-height: 36px;
   text-align: center;
+  margin-bottom: 15px;
 }
 
 .container-secao-sobre-nos span {
