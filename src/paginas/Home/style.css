@@ -2,7 +2,7 @@
   width: 100%;
   height: 60vh;
   margin-bottom: 0px;
-  display: flec;
+  display: flex;
   align-items: center;
   justify-content: center;
   background-image: url('/public/assets/carro.png');

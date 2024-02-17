@@ -129,7 +129,7 @@ return(
             </div>
             <div className="box-servico">
               <img src="assets/antt.png" alt="veiculos no pátio"/>
-              <h3>ANTT.1</h3>
+              <h3>ANTT</h3>
               <p></p>
             </div>
            
