@@ -28,9 +28,9 @@ export default function Sobre() {
            "Desde 2007 atuando e transformando a vida de nossos clientes."</span>
            <span>Parcelamos até em 12x</span>
 =======
-            <p>"Conquistar um novo cliente é sempre bom. Mas manter os de longa data é melhor ainda".</p>
-            <p>
-           "Desde 2007 atuando e transformando a vida de nossos clientes."</p>
+            <span>"Conquistar um novo cliente é sempre bom. Mas manter os de longa data é melhor ainda".</span>
+            <span>
+           "Desde 2007 atuando e transformando a vida de nossos clientes."</span>
           
 >>>>>>> c786b16bf3c415e2c3f3eef358cff99cb0a680f0
 
