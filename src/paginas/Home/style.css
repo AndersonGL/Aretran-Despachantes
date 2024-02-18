@@ -75,6 +75,22 @@
   line-height: 26px;
   margin: 0px 0;
 }
+ /* botão whatsapp */
+
+.whatsapp {
+
+  position: fixed;
+  bottom: 20px;
+  right: -1px;
+  z-index: 100;
+  width: 200px;
+  height: 70px;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #34af23;
+  background-image: url('/public/assets/whatsapp.png');
+}
 
 @media screen and (max-width: 1024px) {
 
