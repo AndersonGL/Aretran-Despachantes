@@ -6,7 +6,7 @@ export default function Header() {
     return(
     <header>
       <div className="limitar-secao">
-        <img src="assets/aretran.png" alt="logomarca" />
+        <img src="assets/aretran.webp" alt="logomarca" />
         <nav>
           <Link className="link-topo" to="/">Home</Link>
           <Link className="link-topo" to="/servicos">Serviços</Link>

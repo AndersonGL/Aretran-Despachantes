@@ -25,7 +25,7 @@ export default function Home() {
 
 
                 <section className="secao-nossos-clientes">
-                    <img src="assets/motorista.png" alt="foto motorista" />
+                    <img src="assets/motorista.webp" alt="foto motorista" />
                     <div className="texto-secao-nossos-clientes">
                         <h2>CLIENTES SATISFEITOS</h2>
                         <span>Gabriel Gomes</span>
@@ -39,7 +39,7 @@ export default function Home() {
          
 
                 <section className="secao-sobre-nos">
-                    <img src="assets/pessoas.png" alt="foto joven no carro" />
+                    <img src="assets/pessoas.webp" alt="foto joven no carro" />
                     <div className="texto-secao-sobre-nos">
                         <h2>SOBRE NÓS</h2>
                         <span>Atuando mais de 17 anos no mercado.</span>

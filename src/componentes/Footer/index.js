@@ -5,7 +5,7 @@ export default function Footer() {
     return(
       <footer>
         <div className='limitar-secao container-logo-informacoes'>
-          <img src='assets/aretran.png' alt='logomarca'/>
+          <img src='assets/aretran.webp' alt='logomarca'/>
           <div>
              <h3>ENDEREÇO</h3>
              <p>Rua Carmo Coelho n° 147</p>

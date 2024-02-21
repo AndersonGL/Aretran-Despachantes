@@ -5,7 +5,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('/public/assets/carro.png');
+  background-image: url('/public/assets/carro.webp');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -89,7 +89,7 @@
   text-align: center;
   font-size: 1.5em;
   background-color: #34af23;
-  background-image: url('/public/assets/whatsapp.png');
+  background-image: url('/public/assets/whatsapp.webp');
   border: none;
 }
 

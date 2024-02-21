@@ -31,8 +31,8 @@ export default function Sobre() {
 
         <section className="container-secao-imagens">
           <div>
-            <img src="assets/dando-as-maos.png" alt="foto carro" />
-            <img src="assets/cartoes.png" alt="foto cnh" />
+            <img src="assets/dando-as-maos.webp" alt="foto carro" />
+            <img src="assets/cartoes.webp" alt="foto cnh" />
           </div>
           
         </section>
