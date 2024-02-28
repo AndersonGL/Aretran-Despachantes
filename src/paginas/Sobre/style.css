@@ -70,13 +70,18 @@ main {
   display: flex;
 }
 
+/* fotos */
+
 .container-secao-imagens img {
   width: 50%;
   height: auto;
-  margin-top: -80px;
+  margin-top: -100px;
   object-fit: cover;
-}
+  
 
+  }
+
+ 
 @media screen and (max-width: 768px) {
   .titulo-banner-sobre h1 {
     font-size: 60px;
@@ -92,6 +97,8 @@ main {
     margin-bottom: 100px;
     
   }
+
+
 }
 
 @media screen and (max-width: 436px){
@@ -108,5 +115,12 @@ main {
 
     font-size: 15px;
   }
+
+  .container-secao-imagens {
+
+
+    margin-bottom: -100px;
+  }
+
 
 }

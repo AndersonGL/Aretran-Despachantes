@@ -35,9 +35,9 @@
 .secao-nossos-clientes img,
 .secao-sobre-nos img {
   width: 50%;
-  height: auto;
+  height: 0;
   object-fit: cover;
-  margin-bottom: px;
+  margin-bottom: 0px;
 }
 
 .texto-secao-nossos-servicos,
@@ -93,6 +93,18 @@
   border: none;
 }
 
+.box-servico {
+  width: 30%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  line-height: 26px;
+  border-radius: 4px ;
+  box-shadow: 2px 2px 15px 2px #d9dde1;
+  margin-bottom: 30px;
+}
+
 @media screen and (max-width: 1024px) {
 
    .texto-secao-nossos-clientes p,
@@ -144,6 +156,7 @@
     width: 100%;
     margin-bottom: 0px;
     
+    
   }
 }
 
@@ -169,6 +182,21 @@
     margin-top: -80px;
     
   }
+
+  .secao-sobre-nos {
+
+
+    margin-bottom: -100px;
+  }
+
+
+
+
+
+
+  
+
+
 
   
 }

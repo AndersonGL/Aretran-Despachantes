@@ -30,9 +30,17 @@ export default function Sobre() {
         </section>
 
         <section className="container-secao-imagens">
-          <div>
-            <img src="assets/cartoes.webp" alt="foto cnh" />
-          </div>
+          
+         
+       <div>
+
+        
+       </div>
+
+           
+          
+      
+           
           
         </section>
 
