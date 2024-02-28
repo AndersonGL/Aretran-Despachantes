@@ -26,22 +26,10 @@ export default function Sobre() {
       "Desde 2007 atuando e transformando a vida de nossos clientes."</span>
       <span>Parcelamos até em 12x</span></>
 
+      <img src="assets/cartoes.webp" alt="pagamentos"/>
+     
+
           </div>
-        </section>
-
-        <section className="container-secao-imagens">
-          
-         
-       <div>
-
-        
-       </div>
-
-           
-          
-      
-           
-          
         </section>
 
         <section>

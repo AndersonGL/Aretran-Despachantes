@@ -116,11 +116,12 @@ main {
     font-size: 15px;
   }
 
-  .container-secao-imagens {
+  .container-secao-sobre-nos  {
 
+   margin-bottom: 10px;
 
-    margin-bottom: -100px;
   }
+
 
 
 }
