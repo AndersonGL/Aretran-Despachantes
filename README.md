@@ -1,3 +1,3 @@
-# Criado com REACT ultilizando ( Componentes e Spas ).
+# Criado com REACT ultilizando ( Componentes e Spas )
 
 
