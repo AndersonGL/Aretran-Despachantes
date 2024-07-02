@@ -1,3 +1,10 @@
-# Criado com REACT ultilizando ( Componentes e Spas )
+* Criado com React ultilizando:
+
+* HTML
+* CSS
+* JavaScript 
+* React ( Componentes e Spas ).
+
+
 
 
