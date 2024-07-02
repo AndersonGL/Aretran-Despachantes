@@ -1,4 +1,4 @@
-* Site Criado para o Despachante Aretran Serviços com React ultilizando:
+* Site Criado para o Despachante de Veículos Aretran Serviços com React ultilizando:
 
 * HTML
 * CSS
