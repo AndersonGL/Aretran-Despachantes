@@ -23,7 +23,7 @@ export default function Footer() {
             </div>
         </div>
         <div className='limitar-secao direito-autoral'>
-            <p>© 2024 Aretran Despachantes - Todos os direitos reservados.</p>
+            <p>© 2025 Aretran Despachantes - Todos os direitos reservados.</p>
         </div>
     </footer>
 
