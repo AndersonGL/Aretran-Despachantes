@@ -14,7 +14,7 @@ export default function Footer() {
             <div>
                 <h3>CONTATO</h3>
                 <p>pedroaretran.com.br</p>
-                <p>Tel: (11)97455-9801 (Pedro / Jucimara)</p>
+                <p>Tel: (11)97455-9801 (Pedro)</p>
             </div>
             <div>
                 <h3>HORÁRIOS</h3>
