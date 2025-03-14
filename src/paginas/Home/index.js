@@ -42,7 +42,7 @@ export default function Home() {
                     <img src="assets/pessoas.webp" alt="foto joven no carro" />
                     <div className="texto-secao-sobre-nos">
                         <h2>SOBRE NÓS</h2>
-                        <span>Atuando mais de 17 anos no mercado.</span>
+                        <span>Atuando mais de 18 anos no mercado.</span>
                         <p>
                             “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!!!”
                         </p>
