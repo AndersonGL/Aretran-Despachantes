@@ -36,18 +36,9 @@ export default function Home() {
 
                 </section>
 
-         
+                <!-- Aqui estava o sobre nós -->
 
-                <section className="secao-sobre-nos">
-                    <img src="assets/pessoas.webp" alt="foto joven no carro" />
-                    <div className="texto-secao-sobre-nos">
-                        <h2>SOBRE NÓS</h2>
-                        <span>Atuando mais de 18 anos no mercado.</span>
-                        <p>
-                            “Serviços junto ao detran atendemos a todas as suas expectativas com rapidez e eficiência!!!”
-                        </p>
-                    </div>
-                </section>
+              
 
                 <section>
                 <a href='https://wa.me/5511974559801?text=Ol%C3%A1%21%21%21+aretran+quero+tirar+uma+d%C3%BAvida..."'><button className="whatsapp"></button></a>
