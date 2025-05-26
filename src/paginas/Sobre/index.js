@@ -22,9 +22,9 @@ export default function Sobre() {
         <section className="container-secao-sobre-nos">
           <div className="limitar-secao">
             <h2>Sobre Nós</h2>
-            <><span>"Conquistar um novo cliente é sempre bom. Mas manter os de longa data é melhor ainda".</span><span>
-      "Desde 2007 atuando e transformando a vida de nossos clientes."</span>
-      <span>Parcelamos até em 12x</span></>
+            <p>"Conquistar um novo cliente é sempre bom. Mas manter os de longa data é melhor ainda".</p>
+     <p> "Desde 2007 atuando e transformando a vida de nossos clientes."</p>
+      <p>Parcelamos até em 12x</p>
 
       <img src="assets/cartoes.webp" alt="pagamentos"/>
      
