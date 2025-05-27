@@ -78,7 +78,7 @@ main {
 
 @media screen and (max-width: 768px) {
   .titulo-banner-servicos h1 {
-    font-size: 60px;
+    font-size: 35px;
   }
 
   .box-servico {
@@ -98,6 +98,6 @@ main {
 
 @media screen and (max-width: 425px) {
   .titulo-banner-servicos h1 {
-    font-size: 45px;
+    font-size: 35px;
   }
 }
