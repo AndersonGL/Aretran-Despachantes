@@ -165,6 +165,7 @@
   .texto-secao-nossos-servicos h2,
   .texto-secao-sobre-nos h2 {
     line-height: 40px;
+    font-size: 25px;
   }
 
   .secao-nossos-clientes h2 {
