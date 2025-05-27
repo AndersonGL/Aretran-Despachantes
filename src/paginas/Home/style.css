@@ -156,7 +156,7 @@
 @media screen and (max-width: 425px) {
   .texto-banner h1 {
     font-size: 25px;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
     position: relative;
     left: 1px;
   }
