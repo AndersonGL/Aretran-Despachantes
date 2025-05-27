@@ -92,6 +92,7 @@ main {
 @media screen and (max-width: 436px) {
   .titulo-banner-sobre h1 {
     font-size: 25px;
+    margin-bottom: 100px;
   }
   .texto-secao-sobre-nos {
     margin-top: -70px;
