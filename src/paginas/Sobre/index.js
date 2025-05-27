@@ -26,7 +26,7 @@ export default function Sobre() {
               "Conquistar um novo cliente é sempre bom. Mas manter os de longa
               data é melhor ainda".
             </p>
-            <p class="sobre">Parcelamos até em 12x</p>
+            <p class="sobre">Parcelamos am até 12x</p>
 
             <img src="assets/cartoes.webp" alt="pagamentos" />
           </div>
