@@ -21,7 +21,7 @@ export default function Home() {
             <h2>CLIENTES SATISFEITOS</h2>
             <span>Gabriel Gomes</span>
             <p>
-              " Gostaria de agradecer o Aretran pelo comprometimento e entrega
+              "Gostaria de agradecer o Aretran pelo comprometimento e entrega
               sou motorista de aplicativo precisava adicionar o EAR e renovar
               minha CNH estou muito contente".
             </p>
