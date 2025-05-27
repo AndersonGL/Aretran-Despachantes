@@ -76,7 +76,7 @@ main {
 
 @media screen and (max-width: 768px) {
   .titulo-banner-sobre h1 {
-    font-size: 60px;
+    font-size: 28px;
   }
 
   .container-secao-imagens div {
@@ -91,7 +91,7 @@ main {
 
 @media screen and (max-width: 436px) {
   .titulo-banner-sobre h1 {
-    font-size: 40px;
+    font-size: 28px;
   }
   .texto-secao-sobre-nos {
     margin-top: -70px;
