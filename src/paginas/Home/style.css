@@ -81,7 +81,7 @@
 }
 /* botão whatsapp */
 
-.whatsapp {
+/*.whatsapp {
   position: fixed;
   bottom: 20px;
   right: 10px;
@@ -94,6 +94,25 @@
   background-color: #34af23;
   background-image: url("/assets/whatsapp.webp");
   border: none;
+} */
+
+.whatsapp {
+  background-color: #34af23;
+  background-image: url("/assets/whatsapp.webp");
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  background-size: 40px 40px;
+  color: white;
+  font-weight: bold;
+  padding-left: 70px; /* espaço para o ícone */
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+}
+
+.whatsapp:hover {
+  background-color: #2a9220;
 }
 
 @media screen and (max-width: 1024px) {
