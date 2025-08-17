@@ -30,7 +30,7 @@ export default function Home() {
 
         <section>
           <a
-            href="https://api.whatsapp.com/send?phone=5511974559801&text=Ol%C3%A1%2CPedro%20Gostaria%20de%20Tirar%20uma%20d%C3%BAvida%20pode%20me%20ajudar%3F"
+            href="https://api.whatsapp.com/send?phone=5511974559801&text=Ol%C3%A1%2CPedro%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida%20pode%20me%20ajudar%3F"
             target="_blank"
             rel="noopener noreferrer"
           >
